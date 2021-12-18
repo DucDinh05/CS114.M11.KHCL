@@ -3,7 +3,7 @@
 - Dữ liệu train: https://cs.uit.edu.vn/data2.txt
 - Dữ liệu test: https://cs.uit.edu.vn/data3.txt
 - Dữ liệu test: https://cs.uit.edu.vn/data4.txt
-- [x] [PREDICT EXECUTION TIME OF A PROGRAM WITH GIVEN THE NUMBERS OF INPUT](https://github.com/azqpbao/CS114.M11.KHCL/blob/main/Assignment%20Colaboratory/Lab1.ipynb) - [![Open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Un7DmGD4ADG3gfq6QHCrLlfQ91DGk6e1)
+- [x] [PREDICT EXECUTION TIME OF A PROGRAM WITH GIVEN THE NUMBERS OF INPUT](https://github.com/DucDinh05/CS114.M11.KHCL/blob/main/Assignment%20Colaboratory/Lab1.ipynb) - [![Open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Un7DmGD4ADG3gfq6QHCrLlfQ91DGk6e1)
 
 # Bài tập colab số 02. sklearn hand-written digits recognition
 
